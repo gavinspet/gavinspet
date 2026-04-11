@@ -1,4 +1,5 @@
 ### Hi there, I am Kartick 👋
+### "Discipline eats motivation for breakfast"
 
 ---
 
