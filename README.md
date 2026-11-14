@@ -16,7 +16,7 @@
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Featured Project
 
 ### [Cortex — Code Intelligence Platform](https://github.com/gavinspet/Cortex-Code-Intelligence-Platform) · [Live demo](https://cortex-code-intelligence-platform.vercel.app)
 A production-style **C++20** backend that analyses public GitHub repositories asynchronously.
@@ -24,11 +24,6 @@ Submit a repo → the **Drogon** REST API queues a job on **Redis Streams** → 
 Persistent job state, failure recovery, observability, Docker and GitHub Actions CI.
 
 `C++20` · `Drogon` · `Redis Streams` · `MySQL` · `React` · `Docker` · `GitHub Actions`
-
-### [Spectra Vision — C++ REST API Server](https://github.com/gavinspet/spectra-vision) · [Live demo](https://spectra-vision-two.vercel.app/)
-A modern **C++17** REST/JSON API server built with clean architecture: Strategy, Factory and dependency injection, SOLID design and RAII-based resource management.
-
-`C++17` · `cpp-httplib` · `nlohmann/json` · `CMake` · `Docker`
 
 ---
 
@@ -55,7 +50,7 @@ A modern **C++17** REST/JSON API server built with clean architecture: Strategy,
 
 <p>
   <a href="https://leetcode.com/u/gavinspet/">
-    <img src="https://leetcard.jacoblin.cool/gavinspet?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats">
+    <img src="https://leetcard.jacoblin.cool/gavinspet?theme=dark&font=Fira%20Code&width=500&height=170" alt="LeetCode stats">
   </a>
 </p>
 
